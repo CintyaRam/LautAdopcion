@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LautAdopción</string>
+    <string name="subtitle">Encuentra a tu mejor amigo</string>
+    <string name="description">Miles de mascotas te esperan. Encuéntralas en la app.</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="register_button">Regístrate</string>
+    <string name="post_a_pet">Publicar una mascota</string>
+    <string name="name">Nombre</string>
+    <string name="age">Edad</string>
+    <string name="species">Especie</string>
+    <string name="breed">Raza</string>
+    <string name="gender">Género</string>
+    <string name="description2">Descripción</string>
+    <string name="add_photo_of_pet">Agregar foto de la mascota</string>
+    <string name="post_pet">Publicar</string>
+    <string name="close">Cerrar</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="pet_image">Imagen de Mascota</string>
+    <string name="my_posts">Mis Publicaciones</string>
+    <string-array name="filter_options">
+        <item>Ordenar alfabéticamente</item>
+        <item>Ordenar por fecha de publicación</item>
+    </string-array>
+</resources>

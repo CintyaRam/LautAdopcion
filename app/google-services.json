@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639862653940",
+    "project_id": "lautadopcion-a0e16",
+    "storage_bucket": "lautadopcion-a0e16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639862653940:android:a0461c8d508a60b661afa1",
+        "android_client_info": {
+          "package_name": "cl.cintya.lautadopcion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQbSD8dfI9_8XSNMwiSSu3AGF-SHE4cZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
