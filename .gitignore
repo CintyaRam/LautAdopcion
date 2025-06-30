@@ -1,21 +1,32 @@
-*.iml
-.gradle
+# Built files
+/build/
+/app/build/
+
+# Gradle
+.gradle/
 /local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
-# Files for securing your keys
+/.gradle
+/captures/
+
+# IDEs
+*.iml
+.idea/
+*.iws
+*.ipr
+/.idea/
+/.vscode/
+
+# Secrets
+/app/google-services.json
 /secrets.properties
 /gradle.properties
 
-# Log files
+# Logs
 *.log
+
+# User-specific
+*.sublime-project
+*.sublime-workspace
+
+# Screenshots
+/screenshots
