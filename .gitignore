@@ -27,6 +27,3 @@
 # User-specific
 *.sublime-project
 *.sublime-workspace
-
-# Screenshots
-/screenshots
